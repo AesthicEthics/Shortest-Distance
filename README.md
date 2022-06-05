@@ -12,6 +12,11 @@ Since earth is a sphere, how can we figure out the direction vector from our loc
 
 Given Two Points A & B, we can mathematically find the direction vector towards the shortest path in the following manner: 
 
+### What is a cross-product? 
+
+![image](https://user-images.githubusercontent.com/70349501/172032212-04018675-64d3-4f0e-9bc8-a6df7b329f54.png)
+
+### Steps
 1. Get the vectors from the origin of the sphere to the each point 
 
 ![image](https://user-images.githubusercontent.com/70349501/172031762-174e76f3-21b0-44ff-8035-6f3b6fb31ef5.png)
