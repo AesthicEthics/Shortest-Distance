@@ -29,15 +29,15 @@ Cross the two vectors will give us a third vector that is perpendicular to both 
 
 ![image](https://user-images.githubusercontent.com/70349501/172031845-b72bd7eb-f41e-4631-a80f-d70b630110c2.png)
 
-Vector OD is our cross-product and also acts as the normal vector to our plane, the plane contains both our intial and final final vectors. Now if you look   carefully, the arc containing the two vectors OA and OB through our plane is the spherical equivalent of the shortest path between these points!
+Vector OD is our cross-product and also acts as the normal vector to our plane, the plane contains both our intial and final vectors. Now if you look   carefully, the arc containing the two vectors OA and OB through our plane is the spherical equivalent of the shortest path between these points!
 
 ![image](https://user-images.githubusercontent.com/70349501/172031900-29048f3b-3bcb-48c0-a703-bfc1b285c50b.png)
 
-3. Now if we cross the normal vector, we our intial point, it will produce a vector perpendicular to both the normal of the plane and the intial vector.
+3. Now if we cross the normal vector with our intial point vector(OA), it will produce a vector perpendicular to both the normal of the plane and the intial point vector.
 
 ![image](https://user-images.githubusercontent.com/70349501/172031988-e9740030-b918-4c7a-83f1-f323b42763f1.png)
 
-Now if we translate this vector onto our intial vector, it points in the direction we need to start moving in order to get to point B! 
+Now if we translate/add this new vector(OE) onto our intial vector(OA), it points in the direction we need to start moving in order to get to point B! 
  
  ![image](https://user-images.githubusercontent.com/70349501/172032053-225157d4-ae7c-44cc-a968-5a717e206828.png)
  
