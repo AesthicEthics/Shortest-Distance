@@ -1,10 +1,6 @@
 import math
-from turtle import color
-from cv2 import norm, normalize
-from matplotlib import projections
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.preprocessing import scale
 
 
 def distance(point_A):
