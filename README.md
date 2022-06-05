@@ -20,11 +20,11 @@ Given Two Points A & B, we can mathematically find the direction vector towards 
 
 2. Cross the two vectors: 
 
-   Cross the two vectors will give us a third vector that is perpendicular to both of the two vectors. This will serve as the normal to a plane the contains both the      vectors as such, 
+Cross the two vectors will give us a third vector that is perpendicular to both of the two vectors. This will serve as the normal to a plane the contains both the      vectors as such, 
 
 ![image](https://user-images.githubusercontent.com/70349501/172031845-b72bd7eb-f41e-4631-a80f-d70b630110c2.png)
 
-  Vector OD is our cross-product and also acts as the normal vector to our plane, the plane contains both our intial and final final vectors. Now if you look   carefully, the arc containing the two vectors OA and OB through our plane is the spherical equivalent of the shortest path between these points!
+Vector OD is our cross-product and also acts as the normal vector to our plane, the plane contains both our intial and final final vectors. Now if you look   carefully, the arc containing the two vectors OA and OB through our plane is the spherical equivalent of the shortest path between these points!
 
 ![image](https://user-images.githubusercontent.com/70349501/172031900-29048f3b-3bcb-48c0-a703-bfc1b285c50b.png)
 
@@ -32,11 +32,11 @@ Given Two Points A & B, we can mathematically find the direction vector towards 
 
 ![image](https://user-images.githubusercontent.com/70349501/172031988-e9740030-b918-4c7a-83f1-f323b42763f1.png)
 
-   Now if we translate this vector onto our intial vector, it points in the direction we need to start moving in order to get to point B! 
+Now if we translate this vector onto our intial vector, it points in the direction we need to start moving in order to get to point B! 
  
  ![image](https://user-images.githubusercontent.com/70349501/172032053-225157d4-ae7c-44cc-a968-5a717e206828.png)
  
  4. Repeat. 
  
-    In doing this for every-given intial vector, we continiously update our direction vector and eventually chart a flight-path from A to B!
+In doing this for every-given intial vector, we continiously update our direction vector and eventually chart a flight-path from A to B!
  
